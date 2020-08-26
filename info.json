@@ -1,0 +1,10 @@
+{
+  "Id": "DerailFix",
+  "DisplayName": "Derail Fix",
+  "Author": "Zeibach",
+  "Version": "1.0.0",
+  "AssemblyName": "DerailFix.dll",
+  "EntryMethod": "DvMod.DerailFix.Main.Load",
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/209",
+  "Repository": "https://raw.githubusercontent.com/mspielberg/dv-derailfix/master/resources/repository.json"
+}
